@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osa_2C", "osa_2C\osa_2C.csproj", "{D521AA0F-E6B1-4672-AA6D-F76BA5FFB17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D521AA0F-E6B1-4672-AA6D-F76BA5FFB17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D521AA0F-E6B1-4672-AA6D-F76BA5FFB17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D521AA0F-E6B1-4672-AA6D-F76BA5FFB17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D521AA0F-E6B1-4672-AA6D-F76BA5FFB17F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE26191C-A0EB-4157-9E26-803649190028}
+	EndGlobalSection
+EndGlobal
