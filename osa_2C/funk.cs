@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace osa_2C
 {
-    internal class funk
+    internal class Funk
     {
             public static string pikkus(int pikknr)
             {
@@ -15,21 +15,17 @@ namespace osa_2C
                 {
                     pikk = "luhike";
                 }
-                else if (pikknr >= 140 && pikknr <= 150)
+            else if (pikknr > 140 && pikknr < 150)
                 {
                     pikk = "kesk";
                 }
-                else if (pikknr >= 160 && pikknr <= 180)
+                else if (pikknr > 160 && pikknr <= 180)
                 {
                     pikk = "pikk";
                 }
                 else if (pikknr >= 190)
                 {
                     pikk = "vaga pikk";
-                }
-                else
-                {
-                    pikk = "???";
                 }
                 return pikk;
 

@@ -109,7 +109,7 @@ namespace osa_2C
                     int pikk = int.Parse(Console.ReadLine());
 
 
-                    string pikk1 = funk.pikkus(pikk);
+                    string pikk1 = Funk.pikkus(pikk);
                     Console.WriteLine($"Sina oled: {pikk1}");
                 }
                 catch (Exception e)
